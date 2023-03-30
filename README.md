@@ -1,6 +1,6 @@
 ![logo](https://github.com/Renuka8389/Renuka8389/blob/main/3c12-article-210415-research-threats-body-text.jpg)
 <h1 align="center">Hi 👋, I'm Rajput Ranuka</h1>
-<h3 align="center">A passionate frontend developer, backend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renuka8389&label=Profile%20views&color=0e75b6&style=flat" alt="renuka8389" /> </p>
